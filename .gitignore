@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Files
+test/
+train/
+Trash/
+validation/
+
 # C extensions
 *.so
 
